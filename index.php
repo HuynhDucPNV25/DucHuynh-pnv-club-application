@@ -136,15 +136,15 @@
                                             <label class="form-check-label" for="arts">good in arts</label>
                                         </div>
                                         <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" value="good in arts" id="dancer" name="skills[]">
+                                            <input class="form-check-input" type="checkbox" value="a crazy dancer" id="dancer" name="skills[]">
                                             <label class="form-check-label" for="arts">a crazy dancer</label>
                                         </div>
                                         <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" value="good in arts" id="design" name="skills[]">
+                                            <input class="form-check-input" type="checkbox" value="good in design" id="design" name="skills[]">
                                             <label class="form-check-label" for="arts">good in design</label>
                                         </div>
                                         <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" value="good in arts" id="arts" name="skills[]">
+                                            <input class="form-check-input" type="checkbox" value="good in speeches" id="arts" name="skills[]">
                                             <label class="form-check-label" for="arts">good in speeches</label>
                                         </div>
                                     </div>
