@@ -10,16 +10,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <style>
-        body {
-            background-color: #f8f9fa;
-            font-family: Arial, sans-serif;
-        }
 
-        .container {
+.container {
             box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2);
             margin-top: 50px;
             padding: 30px;
-            background-color: pink;
+            border: 6px dashed orange;   
         }
 
         img {
